@@ -20,6 +20,6 @@ Given that most people are unlikely to have a web-connected light gun, (and to a
 
 If you want to get a feel for the original game, you can [play a web-based emulator](https://www.retrogames.cc/nes-games/hogan-s-alley-world.html) (which uses the original ROMs), or [watch some hot, on-console Hogan’s Alley playthrough](https://www.youtube.com/watch?v=nVRp0v_Tb9c) action.
 
-_[Play my implementation]()_ (hosted on Vercel)
+_[Play my implementation](https://sporadicus-portfolio.vercel.app/projects/hogans-alley)_ (hosted on Vercel)
 
-_[Check out the source code]()_ (hosted on Github)
+_[Check out the source code](app/projects/hogans-alley)_ (hosted on Github)
