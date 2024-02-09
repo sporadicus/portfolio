@@ -2,7 +2,7 @@
 
 Here you'll find some portfolio-type projects that i’ve whipped up recently--this little group of projects has only one purpose in life: to provide you, dear reader, with some recent examples of my coding, so thanks for taking a peek!
 
-Each project is introduced by a bit of human-readable (i hope) prose giving some relevant (i hope) context to the project. If you have any questions that aren’t answered here, please feel free to just ask me.
+Each project is introduced by a bit of human-readable (i hope) prose giving some relevant (i hope) context to the project. If you have any questions that aren’t answered here, please feel free to ask me.
 
 ## Faux-gan’s Alley
 
@@ -20,6 +20,6 @@ Given that most people are unlikely to have a web-connected light gun, (and to a
 
 If you want to get a feel for the original game, you can [play a web-based emulator](https://www.retrogames.cc/nes-games/hogan-s-alley-world.html) (which uses the original ROMs), or [watch some hot, on-console Hogan’s Alley playthrough](https://www.youtube.com/watch?v=nVRp0v_Tb9c) action.
 
-_[Play my implementation](https://sporadicus-portfolio.vercel.app/projects/hogans-alley)_ (hosted on Vercel)
+_[Play my implementation (click/tap the 'GO!' button to start playing)](https://sporadicus-portfolio.vercel.app/projects/hogans-alley)_ (hosted on Vercel)
 
 _[Check out the source code](app/projects/hogans-alley)_ (hosted on Github)
