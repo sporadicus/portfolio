@@ -6,7 +6,7 @@ Each project is introduced by a bit of human-readable (i hope) prose giving some
 
 ## Faux-gan’s Alley
 
-![Screenshot of Faux-gan's Alley empty target range as before the game starts](https://github.com/sporadicus/testy-mctestalot/assets/128330523/63748192-4fba-452b-a485-aab68ecc2667)
+![Screenshot of Faux-gan's Alley empty target range as before the game starts](https://github.com/sporadicus/portfolio/assets/128330523/fbe71982-231b-4c12-b5da-68587826c591)
 
 _Implementation technologies:_
 * React  (v18)
